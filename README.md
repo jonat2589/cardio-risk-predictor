@@ -25,7 +25,7 @@ O dataset contém 10.000 registros com as seguintes variáveis:
 
 ## 📈 Métricas e Resultados  
 ### Matriz de Confusão  
-![Matriz de Confusão](images/confusion_matrix.png)  
+![Matriz de Confusão](confusion_matrix.png)  
 
 ### Curva ROC  
 ![Curva ROC](images/roc_curve.png)  
