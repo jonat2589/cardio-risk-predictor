@@ -28,7 +28,7 @@ O dataset contém 10.000 registros com as seguintes variáveis:
 ![Matriz de Confusão](confusion_matrix.png)  
 
 ### Curva ROC  
-![Curva ROC](images/roc_curve.png)  
+![Curva ROC](roc_curve.png)  
 
 **Principais Insights**:  
 - Idade e colesterol são as variáveis mais relevantes.  
